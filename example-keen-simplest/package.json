@@ -1,0 +1,16 @@
+{
+  "name": "t1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vue build ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keen-ui": "^1.0.0",
+    "vue-cli": "^2.8.1"
+  }
+}
